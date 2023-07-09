@@ -1,0 +1,3 @@
+2023-06-29 17:55:41,927 : DEBUG : sLogger : readConfigFile : __init__ - (22) : Initiate readConfiFile Object for .//config.json config file
+2023-06-29 17:55:41,927 : DEBUG : sLogger : readConfigFile : readData - (41) : Initiate to read .//config.json config file
+2023-06-29 17:55:41,928 : DEBUG : sLogger : readConfigFile : readData - (54) : Read .//config.json config file successfully and the data is : {'OPENAI': {'OPENAI_API_KEY': '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', 'OPENAI_TEXT_MODEL': 'gpt-3.5-turbo', 'OPENAI_TEMP': 0.1}}
