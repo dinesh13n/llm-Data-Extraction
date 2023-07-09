@@ -1,6 +1,6 @@
 {
 	"OPENAI": {
-		"OPENAI_API_KEY": "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",
+		"OPENAI_API_KEY": "##########",
 		"OPENAI_TEXT_MODEL": "gpt-3.5-turbo",
 		"OPENAI_TEMP": 0.1
 	}
